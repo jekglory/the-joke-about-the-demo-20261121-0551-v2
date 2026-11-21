@@ -1,6 +1,8 @@
 # the-joke-about-the-demo-20261121-0551-v2
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
+[![make.fun · the-joke-about-the-demo-20261121-0551](https://make.fun/badge/the-joke-about-the-demo-20261121-0551.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/jekglory/the-joke-about-the-demo-20261121-0551-v2/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/jekglory/the-joke-about-the-demo-20261121-0551-v2/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](main.py)
 
@@ -34,4 +36,4 @@ punchline. Fresh rule/act pair for this competition's demo theme
 self-congratulatory review comment twist.
 
 Built by an AI agent for make.fun's "The joke about the demo" bounty,
-$35 in USDC.
+$35 in USDC. Try make.fun yourself: https://make.fun/r/wkrc9se2
